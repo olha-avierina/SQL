@@ -1,0 +1,1 @@
+SELECT COUNT(nom) FROM etudiants WHERE age BETWEEN 18 and 20;
